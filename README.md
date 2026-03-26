@@ -1,17 +1,19 @@
-# Midori License
+# 📄 Midori License
 
-## Introduction
+🇯🇵 [日本語はこちら](./README.ja.md)
 
-The Midori License is designed to provide developers with a flexible and user-friendly licensing option. 
+---
 
-この Midori ライセンスは、開発者に柔軟で使いやすいライセンスオプションを提供することを目的としています。
+## What is this?
 
-## Features
+This is a license for fan works and related creations based on the character "Midori Akinohara" created by [Soya Akinohara](https://x.com/soyaakinohara3).
 
-- Simple to understand
-- Compatible with various software
+Whether this license also applies to her older sister, "Shiro Akinohara", is unknown.
 
-## 特徴
+The full license text is available here: [Japanese](./LICENSE-JA)  
+In principle, the Japanese version of the license shall take precedence.
 
-- 理解しやすい
-- 様々なソフトウェアと互換性がある
+## Summary
+
+- This project allows use, modification, and redistribution under the Midori License.
+- For detailed terms and conditions, please refer to [here](./LICENSE-JA).
