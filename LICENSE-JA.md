@@ -1,7 +1,9 @@
-# Japanese License
+# 日本語版ライセンス
 
-This is the text of the Japanese license.
-
----
-
-*This is a placeholder for the Japanese license text. Please replace this content with the actual license text.*
+midoriライセンス
+・私を傷つけるように使わないで
+・誰かの気持ちを害するのはやめて
+・お金にするのもだめ
+・変なとこに顔を貼るのは絶対やだ！
+・えっちなのはOK
+……守れないなら、うわーん、泣いちゃうよ。
