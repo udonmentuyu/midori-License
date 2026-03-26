@@ -1,19 +1,17 @@
-# 📄 Midori License
+# 📄 Midoriライセンス
 
-🇯🇵 [日本語はこちら](./README.ja.md)
+🇺🇸 [English](./README.md)
 
 ---
 
-## What is this?
+## これはなに
 
-This is a license for fan works and related creations based on the character "Midori Akinohara" created by [Soya Akinohara](https://x.com/soyaakinohara3).
+[秋ノ原窓也](https://x.com/soyaakinohara3)氏のキャラクター、秋ノ原　緑における二次創作等のライセンスです。
+緑ちゃんの姉、秋ノ原　白に適応されるかは知りません。
+本文はこちら、 [日本語](./LICENSE-JA)
+基本的に日本語のライセンスを基準にします。
 
-Whether this license also applies to her older sister, "Shiro Akinohara", is unknown.
+## 概要
 
-The full license text is available here: [Japanese](./LICENSE-JA)  
-In principle, the Japanese version of the license shall take precedence.
-
-## Summary
-
-- This project allows use, modification, and redistribution under the Midori License.
-- For detailed terms and conditions, please refer to [here](./LICENSE-JA).
+- 本プロジェクトは、Midoriライセンスの上、使用・改変・再配布が可能です。
+- 詳細な条件については [こちら](./LICENSE-JA)をご確認ください。
